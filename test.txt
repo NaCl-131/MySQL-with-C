@@ -1,0 +1,2 @@
+id int(20)
+name char(20)
